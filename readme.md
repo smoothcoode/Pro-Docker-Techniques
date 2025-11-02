@@ -38,7 +38,6 @@ Welcome to the ultimate Docker best practices guide! This document covers advanc
 
 ## 4. Implement the Principle of Least Privilege: Run as a Non-Root User
 - Create and switch to a non-privileged user inside the Dockerfile.
-![LeastPrivilege](https://github.com/smoothcoode/Image/blob/main/superman.png?raw=true)
 
 - Example:
   ```dockerfile
